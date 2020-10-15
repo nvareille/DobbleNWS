@@ -1,8 +1,9 @@
 DobbleNWS
 # Dobble sur le thème de Rouen à la NWS
 
+![logo][l]
 
-
+[l]: https://images-fr-cdn.asmodee.com/eu-central-1/filer_public/73/de/73de2587-4984-45d6-a522-0afb84a87a3d/pl_dobb01fr_logo_72dpi_290410.png
 
 # Contenu de la boîte
 
@@ -12,27 +13,24 @@ DobbleNWS
 
 De **2**  à **8** joueurs. 
 
-# `Règles du jeu`
+# Présentation du jeux
+Le jeu comporte 55 cartes rondes, avec 8 dessins sur chacune. Chaque carte a un unique dessin commun avec n'importe quelle autre carte du paquet. Le but du jeu est de trouver le dessin en commun entre deux cartes données, et de l'annoncer.
 
+## But du jeu
 
-#### 5 mini jeux ont été développés par la société Play Factory, chaque règle étant présentée sur une carte.
+* Tous les joueurs jouent en même temps.
+* Quelque soit la variante jouée, il faut toujours :
 
-* **Le Puits** : Les cartes sont réparties entre tous les joueurs. La dernière est posée face visible au centre de la table. Au top les joueurs piochent la première carte de leur paquet et doivent trouver le symbole commun entre leur carte et celle du centre. Dès qu'un joueur le trouve, il le nomme et place sa carte sur celle du milieu, puis il pioche une nouvelle carte. Le but du jeu est de se débarrasser de toutes ses cartes le plus vite possible.
+1. être le plus **rapide** à repérer le symbole identique entre 2 cartes,
+2. le nommer à voix haute
+3. puis (selon la variante), prendre la carte, la poser ou la défausser.
+récupérer le plus de cartes.
 
-* **La Tour infernale** : les joueurs piochent tous une carte qu'ils posent devant eux face cachée. La pioche posée au centre des joueurs est retournée face visible. Au top, les joueurs retournent leur carte. Dès qu'un joueur trouve le symbole commun entre sa carte et celle du centre, il le nomme, pioche la carte du milieu et la place sur son paquet. Le but du jeu est d'avoir plus de cartes que les autres joueurs à la fin de la manche.
+### Intérêts culturel du jeu: 
 
-* **Le Cadeau empoisonné** : même départ que pour la Tour infernale. Au top, les joueurs retournent leur carte. Dès qu'un joueur trouve le symbole commun entre la carte d'un autre joueur et celle du centre, il le nomme, pioche la carte et la place sur le paquet du joueur. Le but du jeu est d'avoir moins de cartes que les autres joueurs.
-
-# `Règles du jeu`
-
-
-#### 5 mini jeux ont été développés par la société Play Factory, chaque règle étant présentée sur une carte.
-
-* **Le Puits** : Les cartes sont réparties entre tous les joueurs. La dernière est posée face visible au centre de la table. Au top les joueurs piochent la première carte de leur paquet et doivent trouver le symbole commun entre leur carte et celle du centre. Dès qu'un joueur le trouve, il le nomme et place sa carte sur celle du milieu, puis il pioche une nouvelle carte. Le but du jeu est de se débarrasser de toutes ses cartes le plus vite possible.
-
-* **La Tour infernale** : les joueurs piochent tous une carte qu'ils posent devant eux face cachée. La pioche posée au centre des joueurs est retournée face visible. Au top, les joueurs retournent leur carte. Dès qu'un joueur trouve le symbole commun entre sa carte et celle du centre, il le nomme, pioche la carte du milieu et la place sur son paquet. Le but du jeu est d'avoir plus de cartes que les autres joueurs à la fin de la manche.
-
-* **Le Cadeau empoisonné** : même départ que pour la Tour infernale. Au top, les joueurs retournent leur carte. Dès qu'un joueur trouve le symbole commun entre la carte d'un autre joueur et celle du centre, il le nomme, pioche la carte et la place sur le paquet du joueur. Le but du jeu est d'avoir moins de cartes que les autres joueurs.
+* Découvrir les principaux monuments de la ville concernée. 
+* S'amuser tout en apprenant.
+* Le site web permet d'apporter un complément pour les joueurs désireux d'en savoir plus sur le monuments en question.  
 
 # `Règles du jeu`
 
